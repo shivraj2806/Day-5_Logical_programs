@@ -23,4 +23,4 @@ public class Harmonic_Number {
             System.out.println("Number Should be Grether Than 0");
     }
 }
-}
+
